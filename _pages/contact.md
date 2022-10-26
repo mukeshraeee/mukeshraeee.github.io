@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 <br/>
-**Office:** ICIMOD< Kathmandu      
-**Email:** aamritjnu@gmail.com      
+**Office:** ICIMOD, Kathmandu      
+**Email:** amrit.thapa@icimod.org, aamritjnu@gmail.com      
 
 ### Mail Address
 
