@@ -5,7 +5,6 @@ author_profile: false
 ---
 
 # Peer-Reviewed Publications
-
 [_in review_] Water, Ice, Society and Ecosystems in the Hindu Kush Himalaya: An Outlook.
 
 [_in review_] Rocky Talchabhadel, Shreedhar Maskey, Manish R. Gouli,Kshitij Dahal,**Amrit Thapa**, Sanjib Sharma, Amod M. Dixit and Saurav Kumar. A diagnostic analysis of the 2021 Melamchi disaster.
