@@ -8,17 +8,15 @@ author_profile: false
 
 [_in review_] Rocky Talchabhadel, Shreedhar Maskey, Manish R. Gouli,Kshitij Dahal,**Amrit Thapa**, Sanjib Sharma, Amod M. Dixit and Saurav Kumar. A diagnostic analysis of the 2021 Melamchi disaster.
 
-[_in review_] Tenzing Chogyal Sherpa, Tom Matthews, L. Baker Perry, Amrit Thapa, Praveen Kumar Singh, Arbindra Khadka, Inka Koch, Mauri Pelto, Prajjwal Panday, Deepak Aryal, Dibas Shrestha, Shichang Kang and Paul Mayewski. Insights from the first observations of winter weather near Mount Everest’s summit, _Weather_.
-
-[_in review_] Tenzing Chogyal Sherpa, Tom Matthews, L. Baker Perry, Amrit Thapa, Praveen Kumar Singh, Arbindra Khadka, Inka Koch, Mauri Pelto, Prajjwal Panday, Deepak Aryal, Dibas Shrestha, Shichang Kang and Paul Mayewski. Insights from the first observations of winter weather near Mount Everest’s summit, _Weather_.
+[_in review_] Tenzing Chogyal Sherpa, Tom Matthews, L. Baker Perry, **Amrit Thapa**, Praveen Kumar Singh, Arbindra Khadka, Inka Koch, Mauri Pelto, Prajjwal Panday, Deepak Aryal, Dibas Shrestha, Shichang Kang and Paul Mayewski. Insights from the first observations of winter weather near Mount Everest’s summit, _Weather_.
 
 [_in review_] Gunjan Silwal, Mohamed E. Ammar, **Amrit Thapa**, Barrie Bonsal and  Monireh Faramarzi. Response of glacier melt modelling parameters to time, space, and model complexity:examples from eastern slopes of Canadian Rocky Mountains, _Science of the Total Environment_.
 
 [_accepted_] Sukant Jain,Varun Tiwari,**Amrit Thapa**,Rohit Mangla,Rahul Jaiswal,Vinay Kumar,Supriya Tiwari,Mirela Tulbure,Ravi Galkate,Anil Lohani and Kamal Pandey. Performance evaluation of Google Earth Engine based precipitation datasets under different climatic zones over India, _Remote Sensing in Earth Systems Sciences_, doi:[10.22541/au.165217346.61030333/v1](https://doi.org/10.22541/au.165217346.61030333/v1).
 
 ### ------ 2021 ------
-7\. **Thapa, Amrit**, and Sher Muhammad (2021). Daily Terra–Aqua MODIS cloud-free snow and Randolph Glacier Inventory 6.0 combined product (M*D10A1GL06) for high-mountain Asia between 2002 and 2019. _Earth System Science Data_, doi:[0.5194/essd-13-767-2021](https://doi.org/0.5194/essd-13-767-2021). [ [PDF](https://amrit-thapa-2044.github.io/files/Thapa_and_Muhammad_2020.pdf) ].
 
+7\. **Thapa, Amrit**, and Sher Muhammad (2021). Daily Terra–Aqua MODIS cloud-free snow and Randolph Glacier Inventory 6.0 combined product (M*D10A1GL06) for high-mountain Asia between 2002 and 2019. _Earth System Science Data_, doi:[0.5194/essd-13-767-2021](https://doi.org/0.5194/essd-13-767-2021). [ [PDF](https://amrit-thapa-2044.github.io/files/Thapa_and_Muhammad_2020.pdf) ].
 
 ### ------ 2020------
 
@@ -35,6 +33,6 @@ author_profile: false
 2\. Saloranta, Tuomo, **Amrit Thapa**, James D. Kirkham, Inka Koch, Kjetil Melvold, Emmy Stigter, Maxime Litt, and Knut Møen (2019). A Model Setup for Mapping Snow Conditions in High-Mountain Himalaya. _Frontiers in Earth Science_, doi:[10.3389/feart.2019.00129](https://doi.org/10.3389/feart.2019.00129). [ [PDF](https://amrit-thapa-2044.github.io/files/Thapa_and_Muhammad_2020.pdf) ].
 
 ### ------ 2015------
-1\. **Thapa, Amrit**, and Rijan Bhakta Kayastha (2015). Extraction of Periodic Components and Time Adaptive Long-term Trends of Temperature and Precipitation as Climate Variables in Langtang River Basin, Nepal Using Empirical Mode Decomposition. _Water_, doi:[10.3233/JCC-150008](https://doi.org/10.3233/JCC-150008).
+1\. **Thapa, Amrit**, and Rijan Bhakta Kayastha (2015). Extraction of Periodic Components and Time Adaptive Long-term Trends of Temperature and Precipitation as Climate Variables in Langtang River Basin, Nepal Using Empirical Mode Decomposition. _Climate Change_, doi:[10.3233/JCC-150008](https://doi.org/10.3233/JCC-150008).
 
 
