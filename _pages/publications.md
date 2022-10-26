@@ -33,6 +33,6 @@ author_profile: false
 2\. Saloranta, Tuomo, **Amrit Thapa**, James D. Kirkham, Inka Koch, Kjetil Melvold, Emmy Stigter, Maxime Litt, and Knut Møen (2019). A Model Setup for Mapping Snow Conditions in High-Mountain Himalaya. _Frontiers in Earth Science_, doi:[10.3389/feart.2019.00129](https://doi.org/10.3389/feart.2019.00129). [ [PDF](https://amrit-thapa-2044.github.io/files/Thapa_and_Muhammad_2020.pdf) ].
 
 ### ------ 2015------
-1\. **Thapa, Amrit**, and Rijan Bhakta Kayastha (2015). Extraction of Periodic Components and Time Adaptive Long-term Trends of Temperature and Precipitation as Climate Variables in Langtang River Basin, Nepal Using Empirical Mode Decomposition. _Climate Change_, doi:[10.3233/JCC-150008](https://doi.org/10.3233/JCC-150008).
+1\. **Thapa, Amrit**, and Rijan Bhakta Kayastha (2015). Extraction of Periodic Components and Time Adaptive Long-term Trends of Temperature and Precipitation as Climate Variables in Langtang River Basin, Nepal Using Empirical Mode Decomposition. _Journal of Climate Change_, doi:[10.3233/JCC-150008](https://doi.org/10.3233/JCC-150008).
 
 
