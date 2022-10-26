@@ -6,6 +6,8 @@ author_profile: false
 
 # Peer-Reviewed Publications
 
+[_in review_] Water, Ice, Society and Ecosystems in the Hindu Kush Himalaya: An Outlook.
+
 [_in review_] Rocky Talchabhadel, Shreedhar Maskey, Manish R. Gouli,Kshitij Dahal,**Amrit Thapa**, Sanjib Sharma, Amod M. Dixit and Saurav Kumar. A diagnostic analysis of the 2021 Melamchi disaster.
 
 [_in review_] Tenzing Chogyal Sherpa, Tom Matthews, L. Baker Perry, **Amrit Thapa**, Praveen Kumar Singh, Arbindra Khadka, Inka Koch, Mauri Pelto, Prajjwal Panday, Deepak Aryal, Dibas Shrestha, Shichang Kang and Paul Mayewski. Insights from the first observations of winter weather near Mount Everest’s summit, _Weather_.
