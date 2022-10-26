@@ -5,9 +5,15 @@ main:
     
   - title: "Research"
     url: /research/
-    
-   - title: "Training"
+
+#  - title: "Teaching"
+#    url: /teaching/
+
+  - title: "Training"
     url: /training/
+
+#  - title: "Posts"
+#    url: /posts/
     
   - title: "Contact"
     url: /contact/
