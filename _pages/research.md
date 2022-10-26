@@ -1,8 +1,10 @@
 ---
-permalink: /reserach/
+permalink: /research/
 title: ""
 author_profile: false
 ---
+
+
 
 # Improved understanding of snow melt and accumulation process in the HMA region
 
