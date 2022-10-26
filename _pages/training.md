@@ -7,8 +7,6 @@ author_profile: false
 
 
 # Conducted
-+
-+
-+
+
 
 # Received
