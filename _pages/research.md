@@ -1,7 +1,7 @@
 ---
 permalink: /research/
 title: ""
-author_profile: false
+author_profile: true
 ---
 
 - **Improved understanding of snow melt and accumulation process in the HMA region**
