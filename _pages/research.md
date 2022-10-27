@@ -9,7 +9,10 @@ author_profile: false
 Snow covers a large area of Hindu Kush Himalaya (HKH) region. In the HKH region, the seasonal snow is a central component of the cryosphere and a primary source of freshwater for over one billion people. Obtaining accurate snow information is vital for monitoring, modeling, and evaluating snow-related hazards in the Himalayas. The dynamics of snow cover remain poorly understood. By combining remote sensing data (MODIS, Landsat, Sentinel) with field observations and empirical and physical snow models (SeNorge, FSM2, J2000), my research contributes to improving our understanding of snow processes in the HKH.
 
 The animation below shows simulated snow depth in Langtang catchment, Central Himalaya, Nepal.
-![SD](https://github.com/amrit-thapa-2044/amrit-thapa-2044.github.io/blob/9f961f580268a6ebc6b7a3e55028c18bd7231fdc/images/snowline_langtang.gif), ![yala](https://github.com/amrit-thapa-2044/amrit-thapa-2044.github.io/blob/5c228b2337f12e0b7cf081adde69f1800b4cd9ff/images/SD_langtang.gif)
+
+![SD](/images/snowline_langtang.gif), 
+
+![yala](/images/SD_langtang.gif)
 
 - **Improving existing permafrost distribution map in the HKH region**
 
