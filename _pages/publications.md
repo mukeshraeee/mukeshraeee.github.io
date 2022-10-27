@@ -6,7 +6,7 @@ author_profile: true
 
 # Peer-Reviewed Publications
 
-[_in review_]**Water, Ice, Society and Ecosystems in the Hindu Kush Himalaya: An Outlook**
+[_in review_] **Water, Ice, Society and Ecosystems in the Hindu Kush Himalaya: An Outlook**
 
 [_in review_] Rocky Talchabhadel, Shreedhar Maskey, Manish R. Gouli,Kshitij Dahal,
 **Amrit Thapa**, Sanjib Sharma, Amod M. Dixit and Saurav Kumar. **A diagnostic analysis of the 2021 Melamchi disaster,** doi:
@@ -15,7 +15,7 @@ author_profile: true
 
 [_in review_] Gunjan Silwal, Mohamed E. Ammar, **Amrit Thapa**, Barrie Bonsal and  Monireh Faramarzi. **Response of glacier melt modelling parameters to time, space, and model complexity:examples from eastern slopes of Canadian Rocky Mountains,** _Science of the Total Environment_.
 
-[_accepted_] Sukant Jain,Varun Tiwari, **Amrit Thapa**,Rohit Mangla,Rahul Jaiswal,Vinay Kumar,Supriya Tiwari,Mirela Tulbure,Ravi Galkate,Anil Lohani and Kamal Pandey.  **Performance evaluation of Google Earth Engine based precipitation datasets under different climatic zones over India,** _Remote Sensing in Earth Systems Sciences_, doi:[10.22541/au.165217346.61030333/v1](https://doi.org/10.22541/au.165217346.61030333/v1).
+[_accepted_] Sukant Jain, Varun Tiwari, **Amrit Thapa**, Rohit Mangla,Rahul Jaiswal, Vinay Kumar, Supriya Tiwari, Mirela Tulbure, Ravi Galkate, Anil Lohani and Kamal Pandey.  **Performance evaluation of Google Earth Engine based precipitation datasets under different climatic zones over India,** _Remote Sensing in Earth Systems Sciences_, doi:[10.22541/au.165217346.61030333/v1](https://doi.org/10.22541/au.165217346.61030333/v1).
 
 ### ------ 2021 ------
 
