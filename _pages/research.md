@@ -12,6 +12,8 @@ Snow covers a large area of Hindu Kush Himalaya (HKH) region. In the HKH region,
 
 Although regional and global permafrost maps exist, they are of limited use at the local scale in the HKH region because of their lack of topographic representation (Figure xxx).The extent and distribution of permafrost in the mountainous parts of the Hindu Kush Himalayan (HKH) region are largely unknown, except for parts in the Tibetan Plateau. Permafrost remains poorly addressed in the Hindu Kush Himalaya (HKH) region although it contributes significantly to catchment hydrology and hazards in the region. It is partly due to the inaccessibility of the permafrost area and also due to a lack of subject experts. Permafrost change in the HKH region needs a systematic assessment to understand its impact on hydrology and hazards. More experts from the region are needed to understand the dynamics of thawing permafrost in the context of changing climate. Considering how few experts are available in this area, I am extremely interested in doing research in this area.
 
+Through downscaling input forcing spatially, combining field observations, and using machine learning techniques, I'm preparing more accurate permafrost maps in the HKH region.
+
 
 ![Book logo](/images/306951155_5775285202516503_5596118770848548150_n.jpg)
 
