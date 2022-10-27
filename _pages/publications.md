@@ -18,6 +18,10 @@ author_profile: false
 
 ### ------ 2021 ------
 
+8\. Thapa, Sahadeep, Fan Zhang, Hongbo Zhang, Chen Zeng, Li Wang, Chong-Yu Xu, **Amrit Thapa**, and Santosh Nepal. (2021). Assessing the snow cover dynamics
+and its relationship with different hydro-climatic characteristics in Upper Ganges River basin and its sub-basins, _Science of The Total Environment_, doi:[10.1016/j.scitotenv.2021.148648](https://doi.org/10.1016/j.scitotenv.2021.148648).
+
+
 7\. **Thapa, Amrit**, and Sher Muhammad (2021). Daily Terra–Aqua MODIS cloud-free snow and Randolph Glacier Inventory 6.0 combined product (M*D10A1GL06) for high-mountain Asia between 2002 and 2019. _Earth System Science Data_, doi:[0.5194/essd-13-767-2021](https://doi.org/0.5194/essd-13-767-2021). [ [PDF](https://amrit-thapa-2044.github.io/files/Thapa_and_Muhammad_2020.pdf) ].
 
 ### ------ 2020------
