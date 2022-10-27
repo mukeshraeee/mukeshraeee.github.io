@@ -14,7 +14,7 @@ The animation below shows simulated snow depth in Langtang catchment, Central Hi
 
 The following animation shows spatio-temporal variability of annual average snow cover over the HKH region.
 
-#![yala](/images/seNorge_snow_depth.gif)
+![hkhsd](/images/hkh_annual_fsca_mod10a1.gif)
 
 
 - **Improving existing permafrost distribution map in the HKH region**
