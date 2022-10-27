@@ -5,7 +5,7 @@ author_profile: false
 ---
 
 # Conducted
-1.[Seven days Crash Course in R](https://greenhood.org/events/crash-course-in-r-programming/) 2018 (/files/amrit_R_trainer_greenhood_nepal.pdf)[PDF]
+1.[Seven days Crash Course in R](https://greenhood.org/events/crash-course-in-r-programming/) 2018 [/files/amrit_R_trainer_greenhood_nepal.pdf][PDF]
 
 2.[Glacio-hydrological analysis using R](https://www.icimod.org/event/glacio-hydrological-analysis-using-r/) 2019
 
