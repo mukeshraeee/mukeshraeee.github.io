@@ -10,13 +10,18 @@ Snow covers a large area of Hindu Kush Himalaya (HKH) region. In the HKH region,
 
 The animation below shows simulated snow depth in Langtang catchment, Central Himalaya, Nepal.
 
-![SD](/images/snowline_langtang.gif), 
+#![SD](/images/snowline_langtang.gif), 
 
-![yala](/images/SD_langtang.gif)
+#![yala](/images/SD_langtang.gif)
+
+The following animation shows spatio-temporal variability of annual average snow cover over the HKH region.
+
+#![yala](/images/SD_langtang.gif)
+
 
 - **Improving existing permafrost distribution map in the HKH region**
 
-Although regional and global permafrost maps exist, they are of limited use at the local scale in the HKH region because of their lack of topographic representation (Figure xxx).The extent and distribution of permafrost in the mountainous parts of the Hindu Kush Himalayan (HKH) region are largely unknown, except for parts in the Tibetan Plateau. Permafrost remains poorly addressed in the Hindu Kush Himalaya (HKH) region although it contributes significantly to catchment hydrology and hazards in the region. It is partly due to the inaccessibility of the permafrost area and also due to a lack of subject experts. Permafrost change in the HKH region needs a systematic assessment to understand its impact on hydrology and hazards. More experts from the region are needed to understand the dynamics of thawing permafrost in the context of changing climate. Considering how few experts are available in this area, I am extremely interested in doing research in this area.
+Although regional and global permafrost maps exist, they are of limited use at the local scale in the HKH region because of their lack of topographic representation (Figure below).The extent and distribution of permafrost in the mountainous parts of the Hindu Kush Himalayan (HKH) region are largely unknown, except for parts in the Tibetan Plateau. Permafrost remains poorly addressed in the Hindu Kush Himalaya (HKH) region although it contributes significantly to catchment hydrology and hazards in the region. It is partly due to the inaccessibility of the permafrost area and also due to a lack of subject experts. Permafrost change in the HKH region needs a systematic assessment to understand its impact on hydrology and hazards. More experts from the region are needed to understand the dynamics of thawing permafrost in the context of changing climate. Considering how few experts are available in this area, I am extremely interested in doing research in this area.
 
 Through downscaling input forcing spatially, combining field observations, and using machine learning techniques, I'm preparing more accurate permafrost maps in the HKH region.
 
