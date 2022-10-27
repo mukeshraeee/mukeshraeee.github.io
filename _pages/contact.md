@@ -17,4 +17,4 @@ G.P.O. Box 3226
 
 ### About My Name
 
-Amrit is my given name and Thapa, my family name. One can either call me Amrit or Thapa.
+Thapa is my family name, and Amrit is my given name. You can call me Amrit or Thapa, or both at the same time.
