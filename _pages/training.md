@@ -15,7 +15,7 @@ author_profile: true
 
 5.[Remote sensing and field-based glacier and snow monitoring in Pakistan](https://www.icimod.org/event/remote-sensing-and-field-based-glacier-and-snow-monitoring-in-pakistan/) 2021
 
-6.[Analysing permafrost in the Hindu Kush Himalaya using open access tools](https://www.icimod.org/event/glacier-mass-balance-modelling-using-r/) 2022
+6.[Analysing permafrost in the Hindu Kush Himalaya using open access tools](https://www.icimod.org/event/analysing-permafrost-in-the-hindu-kush-himalaya-using-open-access-tools/) 2022
 
 # Received
 21.[HydroSAR data products and web application](https://servir.icimod.org/events/orientation-training-on-hydrosar-data-products-and-web-application/) organized by ICIMOD and University of Alaska Fairbanks within the framework of the SERVIR-HKH initiative, 8 June, 21-23 June, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
