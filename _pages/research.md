@@ -10,13 +10,11 @@ Snow covers a large area of Hindu Kush Himalaya (HKH) region. In the HKH region,
 
 The animation below shows simulated snow depth in Langtang catchment, Central Himalaya, Nepal.
 
-#![SD](/images/snowline_langtang.gif), 
-
-#![yala](/images/SD_langtang.gif)
+![SD](/images/seNorge_snow_depth.gif), 
 
 The following animation shows spatio-temporal variability of annual average snow cover over the HKH region.
 
-#![yala](/images/SD_langtang.gif)
+#![yala](/images/seNorge_snow_depth.gif)
 
 
 - **Improving existing permafrost distribution map in the HKH region**
