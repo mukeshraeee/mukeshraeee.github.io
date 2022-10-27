@@ -12,7 +12,7 @@ redirect_from:
 
 I am working as a RS & Geoinformation Research Analyst-Cryosphere Research at the [International Centre for Integrated Mountain Development-ICIMOD](https://www.icimod.org/) since August, 2019. Previously, I worked at ICIMOD as a research associate for two years and eleven months.
 
-I hold an MSc in Environmental Sciences from Jawaharlal Nehru University, India (2012 to 2014) and an MS by Research in Glaciology from Kathmandu University, Nepal (2014-2016).
+I hold an MSc in Environmental Sciences from (Jawaharlal Nehru University)[https://www.jnu.ac.in/main/], India (2012 to 2014) and an MS by Research in Glaciology from (Kathmandu University)[], Nepal (2014-2016).
 
 I am responsible for assessing cryosphere change in the HKH region. This includes field-based measurements of cryospheric components like glacier, snow, permafrost, glacier mass balance, river runoff and other hydro-meteorological variables. 
 
