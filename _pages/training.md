@@ -20,7 +20,7 @@ author_profile: true
 
 6.[Analysing permafrost in the Hindu Kush Himalaya using open access tools](https://www.icimod.org/event/analysing-permafrost-in-the-hindu-kush-himalaya-using-open-access-tools/) 2022
 
-![2019](/images/ICIMOD_permafrost_training_2022)
+![2019](/images/ICIMOD_permafrost_training_2022.jpg)
 
 
 # Received
