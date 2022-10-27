@@ -14,7 +14,7 @@ I am working as a RS & Geoinformation Research Analyst-Cryosphere Research at th
 
 I hold an MSc in Environmental Sciences from [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), India (2012 to 2014) and an MS by Research in Glaciology from [Kathmandu University](https://ku.edu.np/), Nepal (2014-2016).
 
-I am responsible for assessing cryosphere change in the HKH region. This includes field-based measurements of cryospheric components like glacier, snow, permafrost, glacier mass balance, river runoff and other hydro-meteorological variables. 
+I am responsible for assessing cryosphere change in the HKH region. This includes field-based measurements of snow, permafrost, glacier mass balance, river runoff and other hydro-meteorological variables. 
 
 I also analyze freely available satellite data to assess snow cover dynamics on a larger scale and run glacio-hydrological models in the Himalayan catchment to better understand water sources and storage. I support permafrost mapping and modelling activities and contributed as a resource person in cryosphere related training.
 
