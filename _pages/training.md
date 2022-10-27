@@ -9,6 +9,9 @@ author_profile: true
 
 2.[Glacio-hydrological analysis using R](https://www.icimod.org/event/glacio-hydrological-analysis-using-r/) 2019
 
+![2019](/images/R_training_2019.jpg)
+
+
 3.[Glacier mass balance modelling using R](https://www.icimod.org/event/glacier-mass-balance-modelling-using-r/) 2020
 
 4.[Snow data analysis in the Hindu Kush Himalaya region using R and Google Earth Engine](https://www.icimod.org/event/snow-data-analysis-in-the-hindu-kush-himalaya-region-using-r-and-google-earth-engine/) 2021
