@@ -4,6 +4,11 @@ title: ""
 author_profile: true
 ---
 
+My research interests center around the cryosphere in the HKH area. My focus is on improving our understanding of snow melt and accumulation in the HKH region. Furthermore, I am interested in improving the existing global and regional permafrost maps. In addition, I'm interested in understanding how snow affects permafrost dynamics and estimating permafrost deformation with inSAR to understand slow moving landslide. I am passionate about spatial analysis and data visualization.
+
+I am also passionate about spatial analysis and data visualization.
+I've briefly described my research area below.
+
 - **Improved understanding of snow melt and accumulation process in the HMA region**
 
 Snow covers a large area of Hindu Kush Himalaya (HKH) region. In the HKH region, the seasonal snow is a central component of the cryosphere and a primary source of freshwater for over one billion people. Obtaining accurate snow information is vital for monitoring, modeling, and evaluating snow-related hazards in the Himalayas. The dynamics of snow cover remain poorly understood. By combining remote sensing data (MODIS, Landsat, Sentinel) with field observations and empirical and physical snow models (SeNorge, FSM2, J2000), my research contributes to improving our understanding of snow processes in the HKH.
