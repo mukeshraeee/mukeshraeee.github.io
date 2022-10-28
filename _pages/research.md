@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-My research interests center around the cryosphere in the HKH area. My focus is on improving our understanding of snow melt and accumulation in the HKH region. Furthermore, I am interested in improving the existing global and regional permafrost maps. In addition, I'm interested in understanding how snow affects permafrost dynamics and estimating permafrost deformation with inSAR to understand slow moving landslide. I am passionate about spatial analysis and data visualization.
+My research interests center around the cryosphere in the HKH area. My focus is on improving our understanding of snow melt and accumulation in the HKH region. Furthermore, I am interested in improving the existing global and regional permafrost maps. In addition, I'm interested in understanding how snow affects permafrost dynamics and analyzing surface deformation over permafrost area to extract slow moving landslide.
 
 I am also passionate about spatial analysis and data visualization.
 I've briefly described my research area below.
