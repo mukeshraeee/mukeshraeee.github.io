@@ -4,6 +4,10 @@ title: ""
 author_profile: true
 ---
 
+The cryosphere in the HKH region is an important research area since it is a major source of water resources and a potential source of hazards such as avalanches and flash floods. Our understanding of the cryosphere in the HKH is limited. It is partly due to the complexity of the topography, as well as the lack of subject experts.
+
+More cryosphere researchers are needed to manage the cryosphere resources in the region. My goal is to help young researchers in the region develop their research skills. As someone who has taken more than 20 technical courses related to cryospheres and organized cryosphere training for ICIMOD, I am motivated to share my knowledge and experience with others through training workshops.
+
 # Conducted
 1.[Seven days Crash Course in R](https://greenhood.org/events/crash-course-in-r-programming/) 2018 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
 
