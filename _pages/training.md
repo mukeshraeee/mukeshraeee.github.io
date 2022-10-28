@@ -8,7 +8,7 @@ The cryosphere in the HKH region is an important research area since it is a maj
 
 More cryosphere researchers are needed to manage the cryosphere resources in the region. My goal is to help young researchers in the region develop their research skills. As someone who has taken more than 20 technical courses related to cryospheres and organized cryosphere training for ICIMOD, I am motivated to share my knowledge and experience with others through training workshops.
 
-# Conducted
+# Training conducted as a resource person
 1.[Seven days Crash Course in R](https://greenhood.org/events/crash-course-in-r-programming/) 2018 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
 
 2.[Glacio-hydrological analysis using R](https://www.icimod.org/event/glacio-hydrological-analysis-using-r/) 2019
@@ -27,7 +27,7 @@ More cryosphere researchers are needed to manage the cryosphere resources in the
 ![2019](/images/ICIMOD_permafrost_training_2022.jpg)
 
 
-# Received
+# Training taken as a participant
 21.[HydroSAR data products and web application](https://servir.icimod.org/events/orientation-training-on-hydrosar-data-products-and-web-application/) organized by ICIMOD and University of Alaska Fairbanks within the framework of the SERVIR-HKH initiative, 8 June, 21-23 June, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
 
 20.[Modelling surface flow hazard](https://www.huc-hkh.org/events/modelling-surface-flow-hazards)conducted by Himalayan University Consortium, ICIMOD and University of BRISTOL, 8 June, 21-23 June, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
