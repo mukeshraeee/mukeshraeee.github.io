@@ -39,7 +39,7 @@ A five-day in-person training was organized from 20th to 24th June 2022. There w
 # Training taken as a participant
 21.[HydroSAR data products and web application](https://servir.icimod.org/events/orientation-training-on-hydrosar-data-products-and-web-application/) organized by ICIMOD and University of Alaska Fairbanks within the framework of the SERVIR-HKH initiative, 8 June, 21-23 June, 2021.
 
-20.[Modelling surface flow hazard](https://www.huc-hkh.org/events/modelling-surface-flow-hazards)conducted by Himalayan University Consortium, ICIMOD and University of BRISTOL, 8 June, 21-23 June, 2021.
+20.[Modelling surface flow hazard](https://www.huc-hkh.org/events/modelling-surface-flow-hazards)conducted by Himalayan University Consortium, ICIMOD and University of BRISTOL, 8 June, 21-23 June, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/Amrit_thapa_lahar_flow_model.pdf) ].
 
 19.[Monitoring Snow Water Equivalent (SWE) for estimating snow water volume in the HKH region](https://servir.icimod.org/events/monitoring-snow-water-equivalent-swe-for-estimating-snow-water-volume-in-the-hkh-region/) conducted by SERVIR HKH, ICIMOD and Cold World Consulting (CWC) USA, 26 April - 05 May, 2021.
 
