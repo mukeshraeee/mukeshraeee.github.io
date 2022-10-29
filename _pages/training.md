@@ -33,37 +33,38 @@ Early-career researchers and students in Pakistan received training in remote se
 
 6.[Analysing permafrost in the Hindu Kush Himalaya using open access tools](https://www.icimod.org/event/analysing-permafrost-in-the-hindu-kush-himalaya-using-open-access-tools/) 2022
 
-A five-day in-person training was organized from 20th to 24th June 2022. There were a total of 29 participants, with 15 coming from RMCs and the remaining 14 from open calls. Overall, 301 people applied for 14 open positions, indicating a strong interest in permafrost. The training was a mixture of theoretical lectures, demos and hands-on exercise related to permafrost, permafrost hazards, spatial downscaling of temperature data, analysis of SRTM DEM and ground surface temperature and preparation of permafrost maps. Freely available softwares like R and Python were used in the training. All of the resources are prepared using Google Colab, which is available for free to anyone.
+A five-day in-person training was organized from 20th to 24th June 2022. There were a total of 29 participants, with 15 coming from key partners (hydromet agencies) and the remaining 14 from open calls. Overall, 301 people applied for 14 open positions, indicating a strong interest in permafrost. The training was a mixture of theoretical lectures, demos and hands-on exercise related to permafrost, permafrost hazards, spatial downscaling of temperature data, analysis of SRTM DEM and ground surface temperature and preparation of permafrost maps. Freely available softwares like R and Python were used in the training. All of the resources are prepared using Google Colab, which is available for free to anyone.
 
 <img src="/images/ICIMOD_permafrost_training_2022.jpg" width="400" height="300">
 
 # Training taken as a participant
-21.[HydroSAR data products and web application](https://servir.icimod.org/events/orientation-training-on-hydrosar-data-products-and-web-application/) organized by ICIMOD and University of Alaska Fairbanks within the framework of the SERVIR-HKH initiative, 8 June, 21-23 June, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+21.[HydroSAR data products and web application](https://servir.icimod.org/events/orientation-training-on-hydrosar-data-products-and-web-application/) organized by ICIMOD and University of Alaska Fairbanks within the framework of the SERVIR-HKH initiative, 8 June, 21-23 June, 2021.
 
-20.[Modelling surface flow hazard](https://www.huc-hkh.org/events/modelling-surface-flow-hazards)conducted by Himalayan University Consortium, ICIMOD and University of BRISTOL, 8 June, 21-23 June, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+20.[Modelling surface flow hazard](https://www.huc-hkh.org/events/modelling-surface-flow-hazards)conducted by Himalayan University Consortium, ICIMOD and University of BRISTOL, 8 June, 21-23 June, 2021.
 
-19.[Monitoring Snow Water Equivalent (SWE) for estimating snow water volume in the HKH region](https://servir.icimod.org/events/monitoring-snow-water-equivalent-swe-for-estimating-snow-water-volume-in-the-hkh-region/) conducted by SERVIR HKH, ICIMOD and Cold World Consulting (CWC) USA, 26 April - 05 May, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+19.[Monitoring Snow Water Equivalent (SWE) for estimating snow water volume in the HKH region](https://servir.icimod.org/events/monitoring-snow-water-equivalent-swe-for-estimating-snow-water-volume-in-the-hkh-region/) conducted by SERVIR HKH, ICIMOD and Cold World Consulting (CWC) USA, 26 April - 05 May, 2021.
 
-18.[HydroSAR training: Extracting flood information from SAR](https://servir.icimod.org/events/hydrosar-training-extracting-flood-information-from-sar/) organized by SERVIR HKH ICIMOD facilitated by the University of Alaska Fairbanks, 26– 29 January, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+18.[HydroSAR training: Extracting flood information from SAR](https://servir.icimod.org/events/hydrosar-training-extracting-flood-information-from-sar/) organized by SERVIR HKH ICIMOD facilitated by the University of Alaska Fairbanks, 26– 29 January, 2021.
 
 17.[Knowledge Management and Communication](https://www.icimod.org/event/introductory-training-on-knowledge-management-and-communication/) organized by Cryosphere Initiative, ICIMOD, 19 – 23 October, 2020 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_Knowledge Management and Communication_certificate.pdf) ]
 
-16.Participated in Machine Learning Training organized by SERVIR HKH, ICIMOD facilitated by NASA and Development Seed, 29 September – 14 October, 2020 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+16.Participated in Machine Learning Training organized by SERVIR HKH, ICIMOD facilitated by NASA and Development Seed, 29 September – 14 October, 2020.
 
-15.Hydrology and use of models and satellite images in water resources mapping organized by Norwegian Water Resources and Energy Directorate (NVE), Oslo, Norway at Oslo, 29 February – 7 Janaury, 2020 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+15.Hydrology and use of models and satellite images in water resources mapping organized by Norwegian Water Resources and Energy Directorate (NVE), Oslo, Norway at Oslo, 29 February – 7 Janaury, 2020.
 
-14.[HEC RAS Flood Modelling](https://www.icimod.org/event/training-on-hec-ras-flood-modelling/) organized by ICIMOD, at ICIMOD, Kathmandu, Nepal with the support from the Government of Norway, 23 – 27 April, 2018 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+14.[HEC RAS Flood Modelling](https://www.icimod.org/event/training-on-hec-ras-flood-modelling/) organized by ICIMOD, at ICIMOD, Kathmandu, Nepal with the support from the Government of Norway, 23 – 27 April, 2018.
 
-13.[Beginner training on Google Earth Engine](https://servir.icimod.org/news/google-earth-engine-training-workshop-gives-exposure-professionals-and-students-mapping-our/) organized by ICIMOD, at ICIMOD, Kathmandu, Nepal within the framework of SERVIR-HKH supported by USAID and NASA, 9 – 13 April, 2018 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+13.[Beginner training on Google Earth Engine](https://servir.icimod.org/news/google-earth-engine-training-workshop-gives-exposure-professionals-and-students-mapping-our/) organized by ICIMOD, at ICIMOD, Kathmandu, Nepal within the framework of SERVIR-HKH supported by USAID and NASA, 9 – 13 April, 2018.
 
-12.[Hydrological modelling in the Hindu Kush Himalaya using VIC model](https://servir.icimod.org/events/regional-training-on-glacio-hydrological-modelling-in-the-hindu-kush-himalaya/) organized by ICIMOD, at ICIMOD, Kathmandu, Nepal, 21 – 23 May, 2017 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+12.[Hydrological modelling in the Hindu Kush Himalaya using VIC model](https://servir.icimod.org/events/regional-training-on-glacio-hydrological-modelling-in-the-hindu-kush-himalaya/) organized by ICIMOD, at ICIMOD, Kathmandu, Nepal, 21 – 23 May, 2017.
 
-11.[Hydrological Modelling in the Hindu Kush Himalaya using SPHY model organized by ICIMOD](https://servir.icimod.org/events/regional-training-on-glacio-hydrological-modelling-in-the-hindu-kush-himalaya/) at ICIMOD, Kathmandu, Nepal, 16 – 19 May, 2017 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+11.[Hydrological Modelling in the Hindu Kush Himalaya using SPHY model organized by ICIMOD](https://servir.icimod.org/events/regional-training-on-glacio-hydrological-modelling-in-the-hindu-kush-himalaya/) at ICIMOD, Kathmandu, Nepal, 16 – 19 May, 2017.
 
-10.Digital soil mapping” organized by the International Maize and Wheat Improvement Center (CIMMYT) and ISRIC at Lalitpur, Nepal, 27 – 31 March, 2017 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+10.Digital soil mapping” organized by the International Maize and Wheat Improvement Center (CIMMYT) and ISRIC at Lalitpur, Nepal, 27 – 31 March, 2017.
 
 9.[Sentinel Satellites Data Analysis](https://servir.icimod.org/events/training-on-sentinel-satellites-data-analysis/) organized by the ICIMOD and EURAC RESEARCH Bozen/Bolzano, Italy at ICIMOD, Nepal, 30 Janaury – 3 February, 2017
-8.Field techniques and data tools for monitoring high mountain environments: Applications in permafrost jointly organized by University of Zurich and the WSL Institute for Snow and Avalanche Research (SLF), Switzerland at Kathmandu Unuversity, Dhulikhel, Nepal, 23 – 24, October 2016 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
+
+8.Field techniques and data tools for monitoring high mountain environments: Applications in permafrost jointly organized by University of Zurich and the WSL Institute for Snow and Avalanche Research (SLF), Switzerland at Kathmandu Unuversity, Dhulikhel, Nepal, 23 – 24, October 2016 [ [PDF](https://amrit-thapa-2044.github.io/files/Amrit Thapa_certificate_permafrost_training.pdf) ]
 
 7.Data Analysis Using R organized by KU at KU, 22 – 24 June, 2016 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_KU_R_training_certificate.pdf) ]
 
