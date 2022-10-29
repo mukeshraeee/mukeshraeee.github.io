@@ -46,7 +46,7 @@ A five-day in-person training was organized from 20th to 24th June 2022. There w
 
 18.[HydroSAR training: Extracting flood information from SAR](https://servir.icimod.org/events/hydrosar-training-extracting-flood-information-from-sar/) organized by SERVIR HKH ICIMOD facilitated by the University of Alaska Fairbanks, 26– 29 January, 2021.
 
-17.[Knowledge Management and Communication](https://www.icimod.org/event/introductory-training-on-knowledge-management-and-communication/) organized by Cryosphere Initiative, ICIMOD, 19 – 23 October, 2020 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_Knowledge Management and Communication_certificate.pdf) ]
+17.[Knowledge Management and Communication](https://www.icimod.org/event/introductory-training-on-knowledge-management-and-communication/) organized by Cryosphere Initiative, ICIMOD, 19 – 23 October, 2020 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_Knowledge_Management_and_Communication_certificate.pdf) ]
 
 16.Participated in Machine Learning Training organized by SERVIR HKH, ICIMOD facilitated by NASA and Development Seed, 29 September – 14 October, 2020.
 
