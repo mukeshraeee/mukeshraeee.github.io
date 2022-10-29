@@ -4,6 +4,8 @@ title: ""
 author_profile: true
 ---
 
+<img src="/images/R_training_2019.jpg" width="400" height="200"> <img src="/images/ICIMOD_permafrost_training_2022.jpg" width="400" height="200">
+
 The cryosphere in the HKH region is an important research area since it is a major source of water resources and a potential source of hazards such as avalanches and flash floods. Our understanding of the cryosphere in the HKH is limited. It is partly due to the complexity of the topography, as well as the lack of subject experts.
 
 More cryosphere researchers are needed to manage the cryosphere resources in the region. My goal is to help young researchers in the region develop their research skills. As someone who has taken more than 20 technical courses related to cryospheres and organized cryosphere training for ICIMOD, I am motivated to share my knowledge and experience with others through training workshops.
@@ -14,11 +16,6 @@ More cryosphere researchers are needed to manage the cryosphere resources in the
 2.[Glacio-hydrological analysis using R](https://www.icimod.org/event/glacio-hydrological-analysis-using-r/) 2019
 
 This was a four day physical training from 17th to 20th of December 2019. The training was intended to build the capacity of regional partners in using the R programming language for glacio-hydrological analysis which includes hydrological and meteorological time series data analysis, spatio-temporal analysis of includes APHRODITE precipitation, calculation of glacier wide mass balance from point mass balance, analysis of Ground Surface Temperature for permafrost studies and MODIS data for snow cover area calculation. A total of 20 researchers from three different countries attended the training-workshop, including 25% women.
-
-
-![2019](/images/R_training_2019.jpg)
-
-
 3.[Glacier mass balance modelling using R](https://www.icimod.org/event/glacier-mass-balance-modelling-using-r/) 2020
 
 A seven-day virtual training program was conducted from December 14th to 22nd, 2020. The objective of the training was to build capacity of regional partners on using R programing language for spatial data analysis and glacier mass balance modelling. A total of 3O researchers from five different countries attended the training. Twenty participants were nominated by the key organization responsible for the cryosphere research in the HKH region, while 10 were selected through an open call. A total of 174 people applied for the 10 positions available. In conclusion, this clearly demonstrates the need for cryosphere-based training and the interest of people in it.
@@ -37,7 +34,6 @@ Early-career researchers and students in Pakistan received training in remote se
 
 A five-day in-person training was organized from 20th to 24th June 2022. There were a total of 29 participants, with 15 coming from key partners (hydromet agencies) and the remaining 14 from open calls. Overall, 301 people applied for 14 open positions, indicating a strong interest in permafrost. The training was a mixture of theoretical lectures, demos and hands-on exercise related to permafrost, permafrost hazards, spatial downscaling of temperature data, analysis of SRTM DEM and ground surface temperature and preparation of permafrost maps. Freely available softwares like R and Python were used in the training. All of the resources are prepared using Google Colab, which is available for free to anyone.
 
-<img src="/images/ICIMOD_permafrost_training_2022.jpg" width="400" height="300">
 
 # Training taken as a participant
 21.[HydroSAR data products and web application](https://servir.icimod.org/events/orientation-training-on-hydrosar-data-products-and-web-application/) organized by ICIMOD and University of Alaska Fairbanks within the framework of the SERVIR-HKH initiative, 8 June, 21-23 June, 2021.
