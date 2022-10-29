@@ -31,7 +31,7 @@ A seven-day virtual training program was conducted from December 14th to 22nd, 2
 
 6.[Analysing permafrost in the Hindu Kush Himalaya using open access tools](https://www.icimod.org/event/analysing-permafrost-in-the-hindu-kush-himalaya-using-open-access-tools/) 2022
 
-A five-day in-person training was organized from 20th to 24th June 2022. There were a total of 29 participants, with 15 coming from RMCs and the remaining 14 from open calls. Overall, 301 people applied for 14 open positions, indicating a strong interest in permafrost. The training was a mixture of theoretical lectures, demos and hands-on exercise related to permafrost, permafrost hazards, spatial downscaling of temperature data, analysis of SRTM DEM and ground surface temperature and preparation of permafrost maps. A variety of free software was used in the training, including R, Python, and Google Colab. All of the resources are prepared using Google Colab, which is available for free to anyone.
+A five-day in-person training was organized from 20th to 24th June 2022. There were a total of 29 participants, with 15 coming from RMCs and the remaining 14 from open calls. Overall, 301 people applied for 14 open positions, indicating a strong interest in permafrost. The training was a mixture of theoretical lectures, demos and hands-on exercise related to permafrost, permafrost hazards, spatial downscaling of temperature data, analysis of SRTM DEM and ground surface temperature and preparation of permafrost maps. Freely available softwares like R and Python were used in the training. All of the resources are prepared using Google Colab, which is available for free to anyone.
 
 <img src="/images/ICIMOD_permafrost_training_2022.jpg" width="400" height="300">
 
