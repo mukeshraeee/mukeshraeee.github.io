@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-<img src="/images/R_training_2019.jpg" width="400" height="200"> <img src="/images/ICIMOD_permafrost_training_2022.jpg" width="400" height="200">
+<img src="/images/R_training_2019.jpg" width="700" height="350"> 
 
 The cryosphere in the HKH region is an important research area since it is a major source of water resources and a potential source of hazards such as avalanches and flash floods. Our understanding of the cryosphere in the HKH is limited. It is partly due to the complexity of the topography, as well as the lack of subject experts.
 
