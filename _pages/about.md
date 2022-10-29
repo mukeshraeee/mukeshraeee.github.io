@@ -10,7 +10,7 @@ redirect_from:
   - /home.html
 ---
 
-I am working as a RS & Geoinformation Research Analyst-Cryosphere Research at the [International Centre for Integrated Mountain Development-ICIMOD](https://www.icimod.org/) since August, 2019. Previously, I worked at ICIMOD as a research associate for two years and eleven months.
+I am working as a RS & Geoinformation Research Analyst-Cryosphere Research at the [International Centre for Integrated Mountain Development-ICIMOD(https://www.icimod.org/) since August, 2019. Previously, I worked at ICIMOD as a research associate for two years and eleven months.
 
 I hold an MSc in Environmental Sciences from [Jawaharlal Nehru University](https://www.jnu.ac.in/main/), India (2012 to 2014) and an MS by Research in Glaciology from [Kathmandu University](https://ku.edu.np/), Nepal (2014-2016).
 
