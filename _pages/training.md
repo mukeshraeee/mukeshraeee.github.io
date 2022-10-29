@@ -43,7 +43,7 @@ A five-day in-person training was organized from 20th to 24th June 2022. There w
 
 19.[Monitoring Snow Water Equivalent (SWE) for estimating snow water volume in the HKH region](https://servir.icimod.org/events/monitoring-snow-water-equivalent-swe-for-estimating-snow-water-volume-in-the-hkh-region/) conducted by SERVIR HKH, ICIMOD and Cold World Consulting (CWC) USA, 26 April - 05 May, 2021.
 
-18.[HydroSAR training: Extracting flood information from SAR](https://servir.icimod.org/events/hydrosar-training-extracting-flood-information-from-sar/) organized by SERVIR HKH ICIMOD facilitated by the University of Alaska Fairbanks, 26– 29 January, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/HydroSARTraining _ Amrit_Thapa_2021.pdf) ]
+18.[HydroSAR training: Extracting flood information from SAR](https://servir.icimod.org/events/hydrosar-training-extracting-flood-information-from-sar/) organized by SERVIR HKH ICIMOD facilitated by the University of Alaska Fairbanks, 26– 29 January, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/HydroSARTraining_Amrit_Thapa_2021.pdf) ]
 
 17.[Knowledge Management and Communication](https://www.icimod.org/event/introductory-training-on-knowledge-management-and-communication/) organized by Cryosphere Initiative, ICIMOD, 19 – 23 October, 2020 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_Knowledge_Management_and_Communication_certificate.pdf) ]
 
