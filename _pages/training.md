@@ -18,6 +18,12 @@ More cryosphere researchers are needed to manage the cryosphere resources in the
 
 3.[Glacier mass balance modelling using R](https://www.icimod.org/event/glacier-mass-balance-modelling-using-r/) 2020
 
+A seven-day training program was conducted from December 14th to 22nd, 2020. The objective of the training was to build capacity of regional partners on using R programing language for spatial data analysis and glacier mass balance modelling. A total of 3O researchers from five different countries attended the training. Twenty participants were nominated by the key organization responsible for the cryosphere research in the HKH region, while 10 were selected through an open call. A total of 174 people applied for the 10 positions available. In conclusion, this clearly demonstrates the need for cryosphere-based training and the interest of people in it.
+
+![COUNTRY_2020](/images/training_country_stat_2020.png) ![USEFULNESS_2020](/images/training_2020.png)
+
+
+
 4.[Snow data analysis in the Hindu Kush Himalaya region using R and Google Earth Engine](https://www.icimod.org/event/snow-data-analysis-in-the-hindu-kush-himalaya-region-using-r-and-google-earth-engine/) 2021
 
 5.[Remote sensing and field-based glacier and snow monitoring in Pakistan](https://www.icimod.org/event/remote-sensing-and-field-based-glacier-and-snow-monitoring-in-pakistan/) 2021
