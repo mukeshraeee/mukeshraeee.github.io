@@ -15,7 +15,7 @@ main:
 #  - title: "Posts"
 #    url: /posts/
     
-  - title: "MyData"
+  - title: "Data"
     url: /mydata/
     
   - title: "Contact"
