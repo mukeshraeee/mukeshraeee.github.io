@@ -23,7 +23,7 @@ This was a four day physical training from 17th to 20th of December 2019. The tr
 
 A seven-day virtual training program was conducted from December 14th to 22nd, 2020. The objective of the training was to build capacity of regional partners on using R programing language for spatial data analysis and glacier mass balance modelling. A total of 3O researchers from five different countries attended the training. Twenty participants were nominated by the key organization responsible for the cryosphere research in the HKH region, while 10 were selected through an open call. A total of 174 people applied for the 10 positions available. In conclusion, this clearly demonstrates the need for cryosphere-based training and the interest of people in it.
 
-#![COUNTRY_2020](/images/training_country_stat_2020.png) ![USEFULNESS_2020](/images/training_2020.png)
+<img src="/images/training_country_stat_2020.png" width="350" height="300"> <img src="/images/training_2020.png" width="650" height="300">
 
 4.[Snow data analysis in the Hindu Kush Himalaya region using R and Google Earth Engine](https://www.icimod.org/event/snow-data-analysis-in-the-hindu-kush-himalaya-region-using-r-and-google-earth-engine/) 2021
 
@@ -31,8 +31,9 @@ A seven-day virtual training program was conducted from December 14th to 22nd, 2
 
 6.[Analysing permafrost in the Hindu Kush Himalaya using open access tools](https://www.icimod.org/event/analysing-permafrost-in-the-hindu-kush-himalaya-using-open-access-tools/) 2022
 
-![2019](/images/ICIMOD_permafrost_training_2022.jpg)
+A five-day in-person training was organized from 20th to 24th June 2022. There were a total of 29 participants, with 15 coming from RMCs and the remaining 14 from open calls. Overall, 301 people applied for 14 open positions, indicating a strong interest in permafrost. The training was a mixture of theoretical lectures, demos and hands-on exercise related to permafrost, permafrost hazards, spatial downscaling of temperature data, analysis of SRTM DEM and ground surface temperature and preparation of permafrost maps. A variety of free software was used in the training, including R, Python, and Google Colab. All of the resources are prepared using Google Colab, which is available for free to anyone.
 
+<img src="/images/ICIMOD_permafrost_training_2022.jpg" width="400" height="300">
 
 # Training taken as a participant
 21.[HydroSAR data products and web application](https://servir.icimod.org/events/orientation-training-on-hydrosar-data-products-and-web-application/) organized by ICIMOD and University of Alaska Fairbanks within the framework of the SERVIR-HKH initiative, 8 June, 21-23 June, 2021 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_R_trainer_greenhood_nepal.pdf) ]
