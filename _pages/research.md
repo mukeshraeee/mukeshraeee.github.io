@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 The cryosphere in the HKH region is the focus of my research. I contribute to improving the current understanding of snow melt and accumulation in the HKH region.
-Additionally, I'm interested in enhancing the current regional and worldwide permafrost maps over the Himalaya by using machine learning. I intend to study  how snow affects permafrost dynamics and to derive surface deformation of permafrost areas to detect slow moving landslide in peri and postglacial environments of the HKH region.
+Additionally, I'm interested in imrpoving the existing regional and global permafrost maps over the Himalaya by using machine learning. I intend to study  how snow affects permafrost dynamics and to derive surface deformation of permafrost areas to detect slow moving landslide in peri and postglacial environments of the HKH region.
 
 I am passionate about remote sensing, spatial analysis and data visualization.
 I've briefly described my research area below.
