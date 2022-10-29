@@ -64,7 +64,7 @@ A five-day in-person training was organized from 20th to 24th June 2022. There w
 
 9.[Sentinel Satellites Data Analysis](https://servir.icimod.org/events/training-on-sentinel-satellites-data-analysis/) organized by the ICIMOD and EURAC RESEARCH Bozen/Bolzano, Italy at ICIMOD, Nepal, 30 Janaury – 3 February, 2017
 
-8.Field techniques and data tools for monitoring high mountain environments: Applications in permafrost jointly organized by University of Zurich and the WSL Institute for Snow and Avalanche Research (SLF), Switzerland at Kathmandu Unuversity, Dhulikhel, Nepal, 23 – 24, October 2016 [ [PDF](https://amrit-thapa-2044.github.io/files/Amrit Thapa_certificate_permafrost_training.pdf) ]
+8.Field techniques and data tools for monitoring high mountain environments: Applications in permafrost jointly organized by University of Zurich and the WSL Institute for Snow and Avalanche Research (SLF), Switzerland at Kathmandu Unuversity, Dhulikhel, Nepal, 23 – 24, October 2016 [ [PDF](https://amrit-thapa-2044.github.io/files/Amrit_Thapa_certificate_permafrost_training.pdf) ]
 
 7.Data Analysis Using R organized by KU at KU, 22 – 24 June, 2016 [ [PDF](https://amrit-thapa-2044.github.io/files/amrit_KU_R_training_certificate.pdf) ]
 
