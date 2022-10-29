@@ -32,5 +32,9 @@ Through downscaling input forcing spatially, combining field observations, and u
 
 ![Book logo](/images/306951155_5775285202516503_5596118770848548150_n.jpg)
 
-- Deriving surface deformation of permafrost area in the HKH region
+- **Deriving surface deformation of permafrost area in the HKH region**
+
+We have seen an increase in mass movement occurrences over the HKH region in recent years. Many of these occurrences are cascading in nature, creating a variety of risks like landslides and floods as well as causing damage to people's lives and property. However, we haven't been able to collect enough data to fully comprehend the process behind such a risk.
+
+Recent advancement in SAR technology like Sentinel 1 mission by ESA have made it possible to map flood extent at high spatial resolution. The SAR interferometry from Sentinel 1 also gives us an opportunity to estimate surface deformation at centimetre accuracy. However, the use of SAR and InSAR technology in disaster management for the Himalayan region has received relatively little attention. I'm interested in learning microwave remote sensing and use it to create time series of surface displacement which can be used in operation system to derive landslide early warning system.
 
