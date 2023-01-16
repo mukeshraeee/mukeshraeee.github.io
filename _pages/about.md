@@ -10,7 +10,7 @@ redirect_from:
   - /home.html
 ---
 
-I am PhD student at the [University of Alaska Fairbanks](https://www.uaf.edu/uaf/). Using microwave and optical remote sensing products along with field observations, I'm trying to gain a better understanding of cryosphere dynamics over the Hindu Kush Himalayas. 
+I am a PhD student at the [University of Alaska Fairbanks](https://www.uaf.edu/uaf/). Using microwave and optical remote sensing products along with field observations, I'm trying to gain a better understanding of permafrost dynamics over the Hindu Kush Himalayas. 
 
 Previously, I worked at [ICIMOD](https://www.icimod.org/) as a reserach analyst and research associate for six years and four months. During my formal involvement with ICIMOD,I was responsible for assessing cryosphere change in the HKH region. This includes field-based measurements of snow, permafrost, glacier mass balance, river runoff and other hydro-meteorological variables.I also analyzed freely available satellite data to assess snow cover dynamics on a larger scale and run glacio-hydrological models in the Himalayan catchment to better understand water sources and storage. I supported permafrost mapping and modelling activities and contributed as a resource person in cryosphere related training.
 
