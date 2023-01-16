@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 <br/>
-**Office:** ICIMOD, Kathmandu      
-**Email:** amrit.thapa@icimod.org, aamritjnu@gmail.com      
+**Office:** West Ridge Research Building, UAF, Fairbanks, Alaska      
+**Email:** athapa2@alaska.edu, aamritjnu@gmail.com      
 
 ### Mail Address
 
-Khumaltar, Lalitpur
-Kathmandu, Nepal
-G.P.O. Box 3226
+AMRIT THAPA
+PO BOX 750897
+FAIRBANKS, AK 99775-0897
 
 ### About My Name
 
