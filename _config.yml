@@ -86,9 +86,9 @@ author:
   location         : "Pasadena, CA"
   employer         : "JPL"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=Z019MxoAAAAJ&hl=en"
+  email            : "mukesh.rai@jpl.nasa.gov"
+  researchgate     :  "https://www.researchgate.net/profile/Mukesh-Rai"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/mukesh-rai-5b5b3b85/"
+  orcid            : "https://orcid.org/0000-0001-7138-0459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/MukeshRaee"
   vine             :
   weibo            :
   xing             :
