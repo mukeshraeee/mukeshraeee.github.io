@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,6 +14,6 @@ Now I am doing my Postdoc in [NASA Jet Propulsion Laboratory](https://science.jp
 I earned my Ph.D. in atmospheric physics and the atmospheric environment from the University of Chinese Academy of Sciences, M.S. by research in glaciology from Kathmandu University, and my Master in science from Tribhuvan University. Before joining JPL, I worked for [ICIMOD](https://www.icimod.org/) as a research assistant and consultant.  
 
 
-Example: editing a markdown file for a talk
+
 ![Editing a markdown file for a talk](/images/mukesh.jpg)
 
