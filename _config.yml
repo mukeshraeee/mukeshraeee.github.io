@@ -85,7 +85,7 @@ author:
   bio              : "Postdoctoral Fellow \n NASA-JPL/Caltech"
   location         : "Pasadena, CA"
   employer         : "JPL"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Z019MxoAAAAJ&hl=en"
   email            : "mukesh.rai@jpl.nasa.gov"
   researchgate     :  "https://www.researchgate.net/profile/Mukesh-Rai"
