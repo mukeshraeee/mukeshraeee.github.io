@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Mukesh Rai"
-  avatar           : "mukesh.jpg"
-  bio              : "Postdoctoral Fellow \n NASA-JPL/Caltech"
+  avatar           : "profile.png"
+  bio              : "Postdoctoral Fellow  NASA-JPL/Caltech"
   location         : "Pasadena, CA"
   employer         : "JPL"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
