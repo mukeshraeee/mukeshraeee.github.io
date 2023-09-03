@@ -3,7 +3,8 @@ permalink: /research/
 title: ""
 author_profile: true
 ---
-I do air pollution studies by leveraging model simulation, satellite, reanalysis, and observation datasets. Over time, I have used different models and satellite products and worked on a wide spectrum of fields, including spatial-temporal distribution and contribution of aerosol species, vertical distribution, the synergy of aerosol-PBL mechanisms, long-range transport, and radiative perturbation. Now I have focused more on long-range transport and extending the concept of the atmospheric river in terms of aerosols/trace gases. I am using transport diagnostic tools that leverage the atmospheric river concept, tropospheric chemistry reanalysis products, and new satellite observations of Carbon Monoxide (CO), Ozone (O3), and Peroxyacetyl Nitrate (PAN) produced by NASA JPL to analyze large-scale transport of trace gases, improve the use of satellite observations in transport analysis, evaluate current chemistry reanalysis and satellite products, characterize long-range transport phenomena, and quantify impacts on local air quality extremes. In a sense, I will be using the data from the multi-model, multi-constituent chemical data assimilation (MOMO-Chem) framework to extending the concept of the atmospheric river in terms of trace gases.
+*In the avenue of my research* 🗒️ .....
+I do air pollution studies by leveraging model simulation, satellite, reanalysis, and observation datasets. Over time, I have used different models and satellite products and worked on a wide spectrum of fields, including spatial-temporal distribution and contribution of aerosol species, vertical distribution, the synergy of aerosol-PBL mechanisms, long-range transport, and radiative perturbation. Now I have focused more on long-range transport and extending the concept of the atmospheric river in terms of aerosols/trace gases. I am using transport diagnostic tools that leverage the atmospheric river concept, tropospheric chemistry reanalysis products, and new satellite observations of Carbon Monoxide (CO), Ozone (O<sub>3</sub>) and Peroxyacetyl Nitrate (PAN) produced by NASA JPL to analyze large-scale transport of trace gases, improve the use of satellite observations in transport analysis, evaluate current chemistry reanalysis and satellite products, characterize long-range transport phenomena, and quantify impacts on local air quality extremes. In a sense, I will be using the data from the multi-model, multi-constituent chemical data assimilation (MOMO-Chem) framework to extending the concept of the atmospheric river in terms of trace gases.
 
 
 **Tracing Atmospheric Anthropogenic Black Carbon and Its Potential Radiative Response Over Pan-Third Pole Region: A
@@ -26,7 +27,7 @@ concentration during winter and spring caused the increase in temperature over t
 model, synergy on aerosol-boundary feedback, BC transport flux, and source-receptor methods confirmed
 the significant BC contribution and transportation, and notable BC-induced warming over TP. Such transHimalayan BC transport and associated warming could grim glacier melt and water availability in the region.
 
-![1](https://github.com/mukeshraeee/mukeshraeee.github.io/assets/99009788/24b882dc-f8c9-4019-8e6d-5e43651af96f) ![3](https://github.com/mukeshraeee/mukeshraeee.github.io/assets/99009788/1e1c65b9-2e5a-490a-aa65-5ea536dc6cbb)
+👉 ![1](https://github.com/mukeshraeee/mukeshraeee.github.io/assets/99009788/24b882dc-f8c9-4019-8e6d-5e43651af96f) ![3](https://github.com/mukeshraeee/mukeshraeee.github.io/assets/99009788/1e1c65b9-2e5a-490a-aa65-5ea536dc6cbb)
 
 
 **South Asian black carbon is threatening the water sustainability of the Asian Water Tower**
@@ -43,4 +44,4 @@ average from 2007 to 2016; this loss rises to 22.1% in the Himalayas. The direct
 are driving the glacial mass decline of the so-called “Asian Water Tower”.
 
 
-![2](https://github.com/mukeshraeee/mukeshraeee.github.io/assets/99009788/fa31ceb7-8004-4e5b-bd8d-349f4c0812d2)
+👉 ![2](https://github.com/mukeshraeee/mukeshraeee.github.io/assets/99009788/fa31ceb7-8004-4e5b-bd8d-349f4c0812d2)
