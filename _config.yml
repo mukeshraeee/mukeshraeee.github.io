@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Postdoctoral Research Associate @NASA-JPL/Caltech"
   location         : "Pasadena, CA"
-  employer         : "JPL"
+  #employer         : "JPL"
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Z019MxoAAAAJ&hl=en"
   email            : "mukesh.rai@jpl.nasa.gov"
