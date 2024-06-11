@@ -7,12 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome! I am an atmospheric science researcher focusing on air pollution transport, atmospheric composition, and climate feedback. My work involves using observations, remote sensing data, and modeling to understand these phenomena. Currently, I am a postdoctoral research associate at the [NASA Jet Propulsion Laboratory](https://science.jpl.nasa.gov/people/mukesh-rai/), working with [Vivienne Payne](https://science.jpl.nasa.gov/people/payne/), [Kazuyuki Miyazaki](https://science.jpl.nasa.gov/people/miyazaki/), [Bin Guan](https://science.jpl.nasa.gov/people/bguan/), and [Duane Waliser](https://science.jpl.nasa.gov/people/waliser/).. My research explores the impact of human activities on atmospheric compositions, particularly extending the concept of atmospheric rivers to include pollutants like trace gases (CO, O3, and PAN).
 
-Welcome !! I am an atmospheric science researcher mainly working on air pollution transport, atmospheric composition, and climate feedback using observation, remote sensing data, and modeling.
-I am a postdoctoral research associate in [NASA Jet Propulsion Laboratory](https://science.jpl.nasa.gov/people/mukesh-rai/) working with [Vivienne Payne](https://science.jpl.nasa.gov/people/payne/), [Kazuyuki Miyazaki](https://science.jpl.nasa.gov/people/miyazaki/), [Bin Guan](https://science.jpl.nasa.gov/people/bguan/), and [Duane Waliser](https://science.jpl.nasa.gov/people/waliser/). I am working on the impact of human activities on atmospheric compositions, where we envision extending the concept of the atmospheric river in the context of atmospheric pollutants, i.e., trace gases such as CO, O3, and PAN.
-
-I earned my Ph.D. in atmospheric physics and the atmospheric environment from the University of the Chinese Academy of Sciences, M.S. by research in glaciology from Kathmandu University, and my Master in science from Tribhuvan University. Before joining JPL, I worked for [ICIMOD](https://www.icimod.org/) as a research assistant and consultant.  
-
-
-
-
+I hold a Ph.D. in atmospheric physics and the atmospheric environment from the University of the Chinese Academy of Sciences, an M.S. in glaciology from Kathmandu University, and a Master of Science from Tribhuvan University. Prior to joining JPL, I worked as a research assistant and consultant for ICIMOD.
