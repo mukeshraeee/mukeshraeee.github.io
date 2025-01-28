@@ -9,9 +9,9 @@
 locale                   : "en-Nepal"
 title                    : "Mukesh Rai"
 title_separator          : "-"
-name                     : &name "Amrit Thapa"
+name                     : &name "Mukesh Rai"
 description              : &description "Postdoc @NASAJPL"
-url                      : https://amrit-thapa-2044.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mukeshraeee.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mukeshraeee/mukeshraeee.github.io/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,14 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Mukesh Rai"
-  avatar           : "amrit_thapa.jpg"
+  avatar           : "profile.jpg"
   bio              : "Postdoc @NASAJPL"
   location         : "CA, Pasadena, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=kJlXta0AAAAJ&hl=en"
-  email            :  "aamritjnu@gmail.com"
-  researchgate     :  "https://www.researchgate.net/profile/Amrit-Thapa-2"
+  googlescholar    : "https://scholar.google.com/citations?user=Z019MxoAAAAJ&hl=en"
+  email            :  "mukesh.rai@jpl.nasa.gov"
+  researchgate     :  "https://www.researchgate.net/profile/Mukesh-Rai?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,24 +96,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "amrit-thapa-2044"
+  github           : "mukeshraeee"
   google_plus      :
   keybase          :
-  instagram        : "amrit_thapa_2044524"
+  #instagram        : "amrit_thapa_2044524"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :  "amrit2044"
-  orcid            : "https://orcid.org/0000-0002-2843-1414"
+  linkedin         :  "https://www.linkedin.com/in/mukesh-rai-5b5b3b85/"
+  orcid            : "https://orcid.org/0000-0001-7138-0459"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "amrit2044"
+  twitter          : "MukeshRaee"
   vine             :
   weibo            :
   xing             :
-  youtube          :  "UC9Ret92jlRBIC4VyBCnyqGQ"
+  #youtube          :  "UC9Ret92jlRBIC4VyBCnyqGQ"
   wikipedia        :
 
 
