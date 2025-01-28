@@ -4,7 +4,7 @@ title: ""
 author_profile: true
 ---
 
-#**Submitted**
+**Submitted**
 [Submitted to ACP] **Rai, M.**, Miyazaki, K., Payne, V., Guan, B., Waliser, D. (2024). Trace gas atmospheric rivers: remote drivers of air pollutants
 
 **Published**
