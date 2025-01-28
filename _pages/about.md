@@ -9,7 +9,8 @@ redirect_from:
   - /home/
   - /home.html
 ---
-As a PhD student at the [University of Alaska Fairbanks](https://www.uaf.edu/uaf/), I aim to deepen my understanding of permafrost dynamics in the Hindu Kush Himalayas through the use of microwave and optical remote sensing products and field observations. My prior work experience includes a 6-year and 4-month tenure as a research analyst and associate at  [ICIMOD](https://www.icimod.org/), where I assessed changes in the cryosphere in the HKH region. My responsibilities included conducting field measurements of snow, permafrost, glacier mass balance, river runoff, and other hydro-meteorological variables, analyzing satellite data to study snow cover dynamics, running glacio-hydrological models in the Himalayan catchment to understand water sources and storage, and participating in permafrost mapping and modeling activities as a resource person in cryosphere-related training. I hold two degrees in the sciences, including an MSc in Environmental sciences from [Jawaharlal Nehru University](https://www.jnu.ac.in/main/) and an MS by Research in Glaciology from [Kathmandu University](https://ku.edu.np/), Nepal.
+Currently, I am working as a postdoc fellow in [Tropospheric composition](https://science.jpl.nasa.gov/people/mrai/) at JPL. I study air pollution using model simulations, satellite data, reanalysis, and observational datasets. My research focuses on the spatial and temporal distribution of air pollutants, aerosol-boundary layer interactions, and long-range transport, especially extending the atmospheric river concept to trace gases. I use advanced tools like tropospheric chemistry reanalysis and satellite data on CO, O$_3$, and PAN from NASA JPL to analyze large-scale trace gas transport. My goals are to improve satellite data use in transport analysis, assess the accuracy of reanalysis products, and quantify the impact of long-range transport on local air quality.
 
-### Curriculum Vitae: [PDF](https://amrit-thapa-2044.github.io/files/amrit_thapa_CV_AUG_2022.pdf) ###
+
+### Curriculum Vitae: [PDF](https://github.com/mukeshraeee/mukeshraeee.github.io/tree/master/files/mUKESH_CV.pdf) ###
 
