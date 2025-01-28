@@ -4,42 +4,38 @@ title: ""
 author_profile: true
 ---
 
-# Peer-Reviewed Publications
+# Submitted Publications
 
-[_in review_] **Water, Ice, Society and Ecosystems in the Hindu Kush Himalaya: An Outlook**
+[_Submitted] **Atmospheric Chemistry and Physics**
 
-[_in review_] Rocky Talchabhadel, Shreedhar Maskey, Manish R. Gouli,Kshitij Dahal,
-**Amrit Thapa**, Sanjib Sharma, Amod M. Dixit and Saurav Kumar. **A diagnostic analysis of the 2021 Melamchi disaster,** doi:
-
-[_in review_] Tenzing Chogyal Sherpa, Tom Matthews, L. Baker Perry, **Amrit Thapa**, Praveen Kumar Singh, Arbindra Khadka, Inka Koch, Mauri Pelto, Prajjwal Panday, Deepak Aryal, Dibas Shrestha, Shichang Kang and Paul Mayewski. **Insights from the first observations of winter weather near Mount Everest’s summit,** _Weather_, doi:
-
-[_in review_] Gunjan Silwal, Mohamed E. Ammar, **Amrit Thapa**, Barrie Bonsal and  Monireh Faramarzi. **Response of glacier melt modelling parameters to time, space, and model complexity:examples from eastern slopes of Canadian Rocky Mountains,** _Science of the Total Environment_.
-
-[_accepted_] Sukant Jain, Varun Tiwari, **Amrit Thapa**, Rohit Mangla,Rahul Jaiswal, Vinay Kumar, Supriya Tiwari, Mirela Tulbure, Ravi Galkate, Anil Lohani and Kamal Pandey.  **Performance evaluation of Google Earth Engine based precipitation datasets under different climatic zones over India,** _Remote Sensing in Earth Systems Sciences_, doi:[10.22541/au.165217346.61030333/v1](https://doi.org/10.22541/au.165217346.61030333/v1).
-
-### ------ 2021 ------
-
-8\. Thapa, Sahadeep, Fan Zhang, Hongbo Zhang, Chen Zeng, Li Wang, Chong-Yu Xu, **Amrit Thapa**, and Santosh Nepal. (2021). **Assessing the snow cover dynamics
-and its relationship with different hydro-climatic characteristics in Upper Ganges River basin and its sub-basins,** _Science of The Total Environment_, doi:[10.1016/j.scitotenv.2021.148648](https://doi.org/10.1016/j.scitotenv.2021.148648).
+[_in review_] **Rai, M.**, Miyazaki, K., Payne, V., Guan, B., Waliser, D. (2024). Trace gas atmospheric rivers: remote drivers of air pollutants
 
 
-7\. **Thapa, Amrit**, and Sher Muhammad (2021). **Daily Terra–Aqua MODIS cloud-free snow and Randolph Glacier Inventory 6.0 combined product (M*D10A1GL06) for high-mountain Asia between 2002 and 2019,** _Earth System Science Data_, doi:[0.5194/essd-13-767-2021](https://doi.org/0.5194/essd-13-767-2021). [ [PDF](https://amrit-thapa-2044.github.io/files/muhammad_and_thapa_2021.pdf) ].
+1. **Rai, M.**, Kang, S., Yang, J., Chen, X., Hu, Y., \& Rupakheti, D. (2022). Tracing atmospheric anthropogenic black carbon and its potential radiative response over pan-third pole region: A synoptic-scale analysis using wrf-chem. Journal of Geophysical Research-Atmosphere, 127, e2021JD035772. doi:[10.1029/2021JD035772](https://doi.org/10.1029/2021JD035772).
 
-### ------ 2020------
 
-6\. Tiwari, Varun, Vinay Kumar, Mir Abdul Matin, **Amrit Thapa**, Walter Lee Ellenburg, Nishikant Gupta, and Sunil Thapa (2020). **Flood inundation mapping-Kerala 2018; Harnessing the power of SAR, automatic threshold detection method and Google Earth Engine,** _PLoS ONE_, doi:[0.1371/journal.pone.0237324](https://doi.org/0.1371/journal.pone.0237324). [ [PDF](https://amrit-thapa-2044.github.io/files/tiwari_et_al_2020.pdf) ].
+2. **Rai, M.**, Mahapatra, P. S., Gul, C., Kayastha, R. B., Panday, A. K., \& Puppala, S. P. (2019). Aerosol radiative forcing estimation over a remote high-altitude location ( 4900 masl) near yala glacier, nepal.Aerosol and Air Quality Research, 19(8), 1872–1891. \url{https://doi.org/10.4209/aaqr.2018.09.0342}}
 
-5\. **Thapa, Amrit**, and Sher Muhammad (2020). **An improved Terra-Aqua MODIS snow cover and Randolph Glacier Inventory 6.0 combined product (MOYDGL06*) for high-mountain Asia between 2002 and 2018,** _Earth System Science Data_, doi:[10.5194/essd-12-345-2020](https://doi.org/10.5194/essd-12-345-2020). [ [PDF](https://amrit-thapa-2044.github.io/files/muhammad_and_thapa_2020.pdf) ].
+3. **Rai, M.**, Kang, S., Yang, J., Rupakheti. M., Rupakheti, D., Tripathee, L., , Hu. Y., Chen (2022) Insight into seasonal aerosol concentrations, meteorological influence, and transport over the Pan-Third Pole region using multi-sensors satellite and model simulation. Atmospheric Chemistry and Physics Discussion, 2022, 1-36.
+\url{https://doi.org/10.5194/acp-2022-199}}
 
-4\. **Thapa, Amrit**, and Sher Muhammad (2020). **Contemporary Snow Changes in the Karakoram Region Attributed to Improved MODIS Data between 2003 and 2018,** _Water_, doi:[10.3390/w12102681](https://doi.org/10.3390/w12102681). [ [PDF](https://amrit-thapa-2044.github.io/files/Thapa_and_Muhammad_2020.pdf) ].
+4. Yang, J., Kang, S., Chen, D., Zhao, L., Ji, Z., Duan, K., Deng, H., Tripathee, L., Du, W., **Rai, M.**, Yan, F., Li, Y., Gillies, R.R (2022), South Asian black carbon is threatening the water sustainability of the Asian Water Tower. Nature Communication. 13, 7360.
+\url{https://doi.org/10.1038/s41467-022-35128-1}}
 
-### ------ 2019------
+5. Hu, Y., Yu, H., Kang, S., Yang, J., **Rai, M.**, Yin, X., Chen, X., and Chen, P. (2024). Aerosol-meteorology feedback diminishes the trans-boundary transport of black carbon into the Tibetan Plateau. 2024. Atmospheric Chemistry and Physics. \url{https://doi.org/10.5194/acp-24-85-2024}}
 
-3\. Kirkham, James D., Inka Koch, Tuomo M. Saloranta, Maxime Litt, Emmy E. Stigter, Knut Møen, **Amrit Thapa**, Kjetil Melvold, and Walter W. Immerzeel (2019). **Near real-time measurement of snow water equivalent in the Nepal Himalayas,** _Frontiers in Earth Science_, doi:[10.3389/feart.2019.00177](https://doi.org/10.3389/feart.2019.00177). [ [PDF](https://amrit-thapa-2044.github.io/files/kirkham_et_al_2019.pdf) ].
+6. Li, C., Zhang, C., Kang, S., Hu, Y., Yang, F., Liu, Y., **Rai, M.**, Zhang, H., Chen, P., Wang, P., He, C., Wang, S., Slim transport of atmospheric organic carbon into Tibet from South Asia in monsoon season (2024). Science of The Total Environment. \url{https://doi.org/10.1016/j.scitotenv.2024.171321}}
 
-2\. Saloranta, Tuomo, **Amrit Thapa**, James D. Kirkham, Inka Koch, Kjetil Melvold, Emmy Stigter, Maxime Litt, and Knut Møen (2019). **A Model Setup for Mapping Snow Conditions in High-Mountain Himalaya,** _Frontiers in Earth Science_, doi:[10.3389/feart.2019.00129](https://doi.org/10.3389/feart.2019.00129). [ [PDF](https://amrit-thapa-2044.github.io/files/saloranta_et_al_2019.pdf) ].
+7. Rupakheti, D., Rupakheti, M., **Rai, M.**, Yu, X., Yin, X., Kang, S., Orozaliev, D.O., Sinyakov, Sinyakov, V.P., Abdullaev, S.F., Sulaymon, I.D., \& Hu, J., (2022) Spatio-temporal characteristics of air pollutants over Xinjiang, northwestern China. Environmental Pollution 316: 115907. \url{https://doi.org/10.1016/j.envpol.2022.120501}
 
-### ------ 2015------
-1\. **Thapa, Amrit**, and Rijan Bhakta Kayastha (2015). **Extraction of Periodic Components and Time Adaptive Long-term Trends of Temperature and Precipitation as Climate Variables in Langtang River Basin, Nepal Using Empirical Mode Decomposition,** _Journal of Climate Change_, doi:[10.3233/JCC-150008](https://doi.org/10.3233/JCC-150008).
+
+8. Yang, J., Kang, S., Hu, Y., Chen, X., **Rai, M.**. (2022). Influence of South Asian Biomass Burning on Ozone and Aerosol Concentrations Over the Tibetan Plateau. Advances in Atmospheric Sciences 10(1007): \url{https://doi.org/10.1007/s00376-022-1197-0}}
+
+9. Rupakheti, D.,Aculinin, A., Rupakheti, M.,  Dahal, S., **Rai, M.,**, Yin, X., Yu, X., Abdullaev, SF, Hu, J. (2023). Insights on aerosol properties using two decades-long ground-based remote sensing datasets in Moldova, Eastern Europe.Environmental Pollution.\url{https://doi.org/10.1016/j.envpol.2023.122535}}
+
+10. Hu, Y., Kang, S., Yang, J., Chen, X., Ji, Z., **Rai, M**. (2022). Transport of black carbon from Central and West Asia to the Tibetan Plateau: Seasonality and climate effect. Atmospheric Research 809: 151095.\url{https://doi.org/10.1016/j.atmosres.2021.105987}}
+
+
+
 
 
