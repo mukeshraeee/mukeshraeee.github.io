@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 **Submitted**
-[Submitted to ACP] **Rai, M.**, Miyazaki, K., Payne, V., Guan, B., Waliser, D. (2024). Trace gas atmospheric rivers: remote drivers of air pollutants
+1. [Submitted to ACP] **Rai, M.**, Miyazaki, K., Payne, V., Guan, B., Waliser, D. (2024). Trace gas atmospheric rivers: remote drivers of air pollutants
 
 **Published**
 1. **Rai, M.**, Kang, S., Yang, J., Chen, X., Hu, Y., \& Rupakheti, D. (2022). Tracing atmospheric anthropogenic black carbon and its potential radiative response over pan-third pole region: A synoptic-scale analysis using wrf-chem. Journal of Geophysical Research-Atmosphere, 127, e2021JD035772. doi:[10.1029/2021JD035772](https://doi.org/10.1029/2021JD035772).
