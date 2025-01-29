@@ -27,7 +27,7 @@ author_profile: true
 
 9. Rupakheti, D.,Aculinin, A., Rupakheti, M.,  Dahal, S., **Rai, M.,**, Yin, X., Yu, X., Abdullaev, SF, Hu, J. (2023). Insights on aerosol properties using two decades-long ground-based remote sensing datasets in Moldova, Eastern Europe.Environmental Pollution. doi:[10.1016/j.envpol.2023.122535](https://doi.org/10.1016/j.envpol.2023.122535).
 
-10. Hu, Y., Kang, S., Yang, J., Chen, X., Ji, Z., **Rai, M**. (2022). Transport of black carbon from Central and West Asia to the Tibetan Plateau: Seasonality and climate effect. Atmospheric Research 809: 151095. doi[10.1016/j.atmosres.2021.105987](https://doi.org/10.1016/j.atmosres.2021.105987).
+10. Hu, Y., Kang, S., Yang, J., Chen, X., Ji, Z., **Rai, M**. (2022). Transport of black carbon from Central and West Asia to the Tibetan Plateau: Seasonality and climate effect. Atmospheric Research 809: 151095. doi: [10.1016/j.atmosres.2021.105987](https://doi.org/10.1016/j.atmosres.2021.105987).
 
 
 
