@@ -13,5 +13,5 @@ author_profile: true
 MUKESH RAI
 
 34 S. Mentor Avenue
-CA, Padadena
+CA, Pasadena
 
