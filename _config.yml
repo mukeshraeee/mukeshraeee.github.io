@@ -10,7 +10,7 @@ locale                   : "en-Nepal"
 title                    : "Mukesh Rai"
 title_separator          : "-"
 name                     : &name "Mukesh Rai"
-description              : &description "Incoming postdoc in Department of Environmental Science in Baylor university "
+description              : &description "Incoming postdoc in Department of Environmental Science at Baylor University"
 url                      : https://mukeshraeee.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mukeshraeee/mukeshraeee.github.io/"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mukesh Rai"
   avatar           : "profile.jpg"
-  bio              : "Incoming postdoc at Baylor University"
+  bio              : "Research Associate at Baylor University"
   location         : "Waco, Texas, United States"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
