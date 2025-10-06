@@ -9,13 +9,9 @@ redirect_from:
   - /home/
   - /home.html
 ---
-I recently completed my postdoctoral fellowship in the [Tropospheric composition group](https://science.jpl.nasa.gov/people/mrai/) with [Vivienne Payne](https://science.jpl.nasa.gov/people/vpayne/) and [Kazuyuki Miyazaki](https://science.jpl.nasa.gov/people/kmiyazak/). My research at JPL focused on understanding air pollution using satellite observations, reanalysis products, and in-situ datasets. I investigated the extreme event of long-range transport processes, particularly by extending the atmospheric river concept to trace gases. I utilized tropospheric chemistry reanalysis and satellite data on carbon monoxide (CO), ozone (O₃), and peroxyacetyl nitrate (PAN) to identify and characterize large-scale transport events. My work aimed to improve the integration of satellite data into transport diagnostics, evaluate the accuracy of reanalysis products, and quantify the impact of long-range transport on regional and local air quality.
-
-As of August 2025, I will join the Department of Environmental Science at Baylor University as a postdoctoral researcher. In this role, I am focusing on urban-scale air quality studies using chemical transport models, with the goal of better understanding pollution dynamics in cities, identifying emission sources, and supporting science-based air quality management strategies.
+I am an atmospheric scientist specializing in air quality, greenhouse gas emissions, and the transport of pollutants. At Baylor University, I develop greenhouse gas emission inventories using the EMFAC–MOVES framework, with a focus on link-level emissions in California’s San Joaquin Valley, and apply WRF-Chem to assess the impacts of non-exhaust emissions. At NASA’s Jet Propulsion Laboratory (JPL) — within the Tropospheric Composition Group — I introduced the Trace Gas Atmospheric River (TGAR) framework to track long-range pollution transport during extreme events. My research integrates satellite observations (CrIS), reanalysis datasets (TCR-2, MOMO-Chem), and in-situ measurements to validate key pollutants such as CO, O₃, and PANs. Previously, at ICIMOD, I contributed to the operationalization of NASA SERVIR air quality models and satellite products within the Atmospheric Watch Initiative (AWI) dashboard, enhancing regional air quality monitoring and greenhouse gas assessments.
 
 
 
-
-
-### Curriculum Vitae: [PDF](https://github.com/mukeshraeee/mukeshraeee.github.io/tree/master/files/Mukesh_CV.pdf) ###
+### Curriculum Vitae: [PDF](https://drive.google.com/file/d/1DW2bY2PMAPHD0oW9xnOGp8lyYlmGRjsi/view?usp=sharing) ###
 
