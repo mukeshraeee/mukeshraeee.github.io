@@ -6,12 +6,7 @@ author_profile: true
 ---
 
 <br/>
-**Email:** mukeshraeee@gmail.com, mukesh.rai@jpl.nasa.gov     
+**Email:** mukeshraeee@gmail.com, mukesh_rai@baylor.edu   
 
-### Mail Address
 
-MUKESH RAI
-
-34 S. Mentor Avenue
-CA, Pasadena
 
