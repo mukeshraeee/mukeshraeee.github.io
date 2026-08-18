@@ -1,8 +1,11 @@
 ---
+---
 permalink: /mydata/
 title: ""
 author_profile: true
 ---
+
 ### Process-Based On-Road Emissions for California (POREC) : Data will be released soon. 
+
 As major drivers of urban air pollution, on-road vehicle emissions pose significant risks to human health, underscoring the critical need for precise emissions modeling. Brake and tire wear (BTW) emissions are becoming an increasingly important source of traffic-related air pollution as exhaust emissions decline due to stricter vehicle emission standards and increasing electrification. However, most gridded emission inventories don’t explicitly isolate BTW emissions. Thus, we developed the Process-Based On-Road Emissions for California (POREC) dataset, a high-resolution (1 km × 1 km) gridded inventory that captures the fine-scale spatial and temporal variability of on-road air pollutant emissions across California, with explicit representation of BTW alongside exhaust and evaporative emissions. This new dataset, POREC, is produced at hourly intervals by coupling the Emission FACtor (EMFAC) and Emission Spatial and Temporal Allocator (ESTA) models. Fine-scale spatial allocation across the 1 km grid is achieved using seven spatial surrogate categories to distribute EMFAC's county-level emissions to individual grid cells. ESTA performs chemical speciation for BTW process by converting bulk pollutants into the metals, inorganic, carbonaceous, and others as required by photochemical transport models. POREC accounts for eight distinct emission processes, including exhaust (running, idle, start), evaporative (diurnal, hot soak, running loss), and non-exhaust (tire wear, brake wear). The dataset shows good consistency with the Fuel-Based Inventory for Vehicle Emissions (FIVE). By providing the first 1 km process-based mapping of on-road air pollution over California, POREC enables fine-scale air quality modeling and a more complete assessment of health risks associated with the emissions from BTW processes.
 
