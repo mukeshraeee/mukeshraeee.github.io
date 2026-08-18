@@ -1,5 +1,4 @@
 ---
----
 permalink: /mydata/
 title: ""
 author_profile: true
