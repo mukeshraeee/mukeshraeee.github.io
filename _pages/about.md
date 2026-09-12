@@ -17,11 +17,7 @@ Prior to JPL, I supported the ICIMOD Atmospheric Watch Initiative through the NA
 
 ## Research Visualizations
 
-![HKH Annual Snow Cover Animation](/images/hkh_annual_fsca_mod10a1.gif)
-
 ![HYSPLIT Nepal Gunj Animation](/images/hysplit_nepalgunj_animation_hires.gif)
-
-![SeNorge Snow Depth Animation](/images/seNorge_snow_depth.gif)
 
 ### Curriculum Vitae:[PDF](https://raw.githubusercontent.com/mukeshraeee/mukeshraeee.github.io/master/files/Mukesh_CV.pdf) ##
 
