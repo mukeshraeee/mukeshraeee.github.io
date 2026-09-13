@@ -17,7 +17,7 @@ Prior to JPL, I supported the ICIMOD Atmospheric Watch Initiative through the NA
 
 ## Research Visualizations
 
-![HYSPLIT Nepal Gunj Animation](/images/hysplit_nepalgunj_animation_hires.gif)
+![HYSPLIT Nepal Gunj Animation](/images/hysplit_nepalgunj_threejs.gif)
 
 ### Curriculum Vitae:[PDF](https://raw.githubusercontent.com/mukeshraeee/mukeshraeee.github.io/master/files/Mukesh_CV.pdf) ##
 
